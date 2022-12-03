@@ -1,6 +1,6 @@
 👋 Hey there, I’m @Devap2
 
-🧸 | Currently 16 y/o
+🧸 Currently 16 y/o
 
 📌 The Netherlands
 
