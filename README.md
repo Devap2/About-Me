@@ -6,7 +6,7 @@
 
 💻 Skills: Java, Javascript, React, Css, Html
 
-🧠 I’m currently learning Java, Python
+🧠 I’m currently learning Java, Javascript and Python
 
 ---
 
