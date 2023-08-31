@@ -1,12 +1,12 @@
-👋 Hey there, I’m @Devap2
+👋 Hey there, I’m @Dev alex, aka Devap
 
-🧸 Currently 16 y/o
+🧸 Currently 17 y/o
 
 📌 The Netherlands
 
-💻 Skills: Java, Javascript, React, Css, Html
+💻 Skills: Java, Javascript, React, Css, Html, Dart amd Python
 
-🧠 I’m currently learning Java, Javascript and Python
+🧠 I’m currently learning Java, Dart and Python
 
 ---
 
