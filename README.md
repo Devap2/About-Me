@@ -1,4 +1,4 @@
-👋 Hey there, I’m @Dev Alex, aka Devap
+👋 Hey there, I’m @Dev
 
 🧸 Currently 17 y/o
 
